@@ -1,0 +1,618 @@
+{
+    "patente1.jpg2394508": {
+        "filename": "patente1.jpg",
+        "size": 2394508,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        161,
+                        134,
+                        134,
+                        181,
+                        1207,
+                        1361,
+                        1569,
+                        1737,
+                        1838,
+                        2019,
+                        2160,
+                        2280,
+                        2314,
+                        2347,
+                        2361,
+                        2307
+                    ],
+                    "all_points_y": [
+                        2636,
+                        2589,
+                        1335,
+                        1281,
+                        1261,
+                        1274,
+                        1254,
+                        1247,
+                        1281,
+                        1288,
+                        1234,
+                        1227,
+                        1348,
+                        1402,
+                        2676,
+                        2716
+                    ]
+                },
+                "region_attributes": {
+                    "name": "patente"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "patente2.jpg3196629": {
+        "filename": "patente2.jpg",
+        "size": 3196629,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        977,
+                        908,
+                        983,
+                        3796,
+                        3858,
+                        3771
+                    ],
+                    "all_points_y": [
+                        2408,
+                        753,
+                        653,
+                        666,
+                        740,
+                        2333
+                    ]
+                },
+                "region_attributes": {
+                    "name": "patente"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "patente3.jpg3647615": {
+        "filename": "patente3.jpg",
+        "size": 3647615,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        1014,
+                        971,
+                        996,
+                        1052,
+                        3030,
+                        3086,
+                        3273,
+                        3236,
+                        2987,
+                        2912,
+                        2750,
+                        2539,
+                        2246,
+                        2122
+                    ],
+                    "all_points_y": [
+                        2644,
+                        2595,
+                        1300,
+                        1251,
+                        1157,
+                        1201,
+                        2420,
+                        2501,
+                        2520,
+                        2476,
+                        2458,
+                        2470,
+                        2539,
+                        2570
+                    ]
+                },
+                "region_attributes": {
+                    "name": "patente"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "patente4.jpg2668716": {
+        "filename": "patente4.jpg",
+        "size": 2668716,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polyline",
+                    "all_points_x": [
+                        1741,
+                        1733,
+                        1760,
+                        2864,
+                        2910,
+                        2929,
+                        2906,
+                        2308,
+                        2224,
+                        2135,
+                        2063,
+                        2055,
+                        1771,
+                        1741
+                    ],
+                    "all_points_y": [
+                        1484,
+                        809,
+                        778,
+                        740,
+                        767,
+                        1445,
+                        1491,
+                        1495,
+                        1399,
+                        1376,
+                        1430,
+                        1499,
+                        1514,
+                        1491
+                    ]
+                },
+                "region_attributes": {
+                    "name": "patente"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "patente5.jpg2627608": {
+        "filename": "patente5.jpg",
+        "size": 2627608,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polyline",
+                    "all_points_x": [
+                        1181,
+                        1208,
+                        1234,
+                        2231,
+                        2270,
+                        2235,
+                        2189,
+                        1637,
+                        1580,
+                        1511,
+                        1449,
+                        1434,
+                        1208,
+                        1185
+                    ],
+                    "all_points_y": [
+                        1480,
+                        870,
+                        843,
+                        909,
+                        951,
+                        1522,
+                        1549,
+                        1534,
+                        1457,
+                        1453,
+                        1488,
+                        1518,
+                        1511,
+                        1468
+                    ]
+                },
+                "region_attributes": {
+                    "name": "patente"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "patente6.jpg2038282": {
+        "filename": "patente6.jpg",
+        "size": 2038282,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polyline",
+                    "all_points_x": [
+                        1484,
+                        1522,
+                        1553,
+                        2404,
+                        2431,
+                        2477,
+                        2454,
+                        1507,
+                        1488
+                    ],
+                    "all_points_y": [
+                        1445,
+                        974,
+                        962,
+                        955,
+                        978,
+                        1434,
+                        1461,
+                        1465,
+                        1442
+                    ]
+                },
+                "region_attributes": {
+                    "name": "patente"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "patente7.jpg2376127": {
+        "filename": "patente7.jpg",
+        "size": 2376127,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polyline",
+                    "all_points_x": [
+                        1641,
+                        1614,
+                        1633,
+                        2358,
+                        2385,
+                        2438,
+                        2431,
+                        2400,
+                        2385,
+                        1710,
+                        1683,
+                        1641
+                    ],
+                    "all_points_y": [
+                        1442,
+                        985,
+                        958,
+                        924,
+                        947,
+                        1384,
+                        1396,
+                        1403,
+                        1396,
+                        1438,
+                        1457,
+                        1442
+                    ]
+                },
+                "region_attributes": {
+                    "name": "patente"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "patente8.jpg2786776": {
+        "filename": "patente8.jpg",
+        "size": 2786776,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polyline",
+                    "all_points_x": [
+                        1273,
+                        1269,
+                        1415,
+                        1442,
+                        2059,
+                        2017,
+                        2032,
+                        2086,
+                        1978,
+                        1951,
+                        1273
+                    ],
+                    "all_points_y": [
+                        974,
+                        859,
+                        529,
+                        514,
+                        774,
+                        820,
+                        866,
+                        889,
+                        1200,
+                        1223,
+                        966
+                    ]
+                },
+                "region_attributes": {
+                    "name": "patente"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "patente9.jpg1974188": {
+        "filename": "patente9.jpg",
+        "size": 1974188,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polyline",
+                    "all_points_x": [
+                        1457,
+                        1346,
+                        1365,
+                        2465,
+                        2500,
+                        2703,
+                        2684,
+                        1503,
+                        1453
+                    ],
+                    "all_points_y": [
+                        1495,
+                        859,
+                        820,
+                        587,
+                        610,
+                        1208,
+                        1254,
+                        1522,
+                        1491
+                    ]
+                },
+                "region_attributes": {
+                    "name": "patente"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "patente10.jpg2918129": {
+        "filename": "patente10.jpg",
+        "size": 2918129,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polyline",
+                    "all_points_x": [
+                        1185,
+                        1200,
+                        1234,
+                        1867,
+                        1955,
+                        2093,
+                        2201,
+                        2339,
+                        2362,
+                        2339,
+                        2220,
+                        2105,
+                        1894,
+                        1219,
+                        1181
+                    ],
+                    "all_points_y": [
+                        1296,
+                        606,
+                        575,
+                        606,
+                        644,
+                        625,
+                        625,
+                        633,
+                        656,
+                        1169,
+                        1104,
+                        1108,
+                        1334,
+                        1338,
+                        1292
+                    ]
+                },
+                "region_attributes": {
+                    "name": "patente"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "patente11.jpg3096648": {
+        "filename": "patente11.jpg",
+        "size": 3096648,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polyline",
+                    "all_points_x": [
+                        1330,
+                        1323,
+                        1376,
+                        1426,
+                        1461,
+                        1967,
+                        2017,
+                        2112,
+                        2457,
+                        2477,
+                        2438,
+                        2396,
+                        2411,
+                        2362,
+                        2331,
+                        1334
+                    ],
+                    "all_points_y": [
+                        1338,
+                        1273,
+                        1004,
+                        690,
+                        656,
+                        767,
+                        794,
+                        790,
+                        866,
+                        901,
+                        1089,
+                        1158,
+                        1227,
+                        1480,
+                        1507,
+                        1334
+                    ]
+                },
+                "region_attributes": {
+                    "name": "patente"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "patente12.jpg2433576": {
+        "filename": "patente12.jpg",
+        "size": 2433576,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polyline",
+                    "all_points_x": [
+                        1461,
+                        1422,
+                        1419,
+                        1461,
+                        2519,
+                        2561,
+                        2546,
+                        2507,
+                        2300,
+                        2331,
+                        2285,
+                        2170,
+                        1959,
+                        1902,
+                        1465
+                    ],
+                    "all_points_y": [
+                        1020,
+                        970,
+                        295,
+                        268,
+                        330,
+                        368,
+                        985,
+                        1035,
+                        1031,
+                        943,
+                        836,
+                        813,
+                        947,
+                        1020,
+                        1020
+                    ]
+                },
+                "region_attributes": {
+                    "name": "patente"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "patente13.jpg2946940": {
+        "filename": "patente13.jpg",
+        "size": 2946940,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polyline",
+                    "all_points_x": [
+                        1652,
+                        1702,
+                        1787,
+                        1829,
+                        2254,
+                        2296,
+                        2396,
+                        2542,
+                        2576,
+                        2680,
+                        2822,
+                        2841,
+                        2695,
+                        2634,
+                        1660
+                    ],
+                    "all_points_y": [
+                        1104,
+                        820,
+                        441,
+                        414,
+                        529,
+                        552,
+                        564,
+                        610,
+                        629,
+                        648,
+                        682,
+                        713,
+                        1257,
+                        1338,
+                        1108
+                    ]
+                },
+                "region_attributes": {
+                    "name": "patente"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "patente14.jpg2458573": {
+        "filename": "patente14.jpg",
+        "size": 2458573,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polyline",
+                    "all_points_x": [
+                        1100,
+                        1100,
+                        1154,
+                        2918,
+                        2967,
+                        3033,
+                        3002,
+                        1173,
+                        1096
+                    ],
+                    "all_points_y": [
+                        1756,
+                        552,
+                        518,
+                        552,
+                        594,
+                        1641,
+                        1710,
+                        1806,
+                        1748
+                    ]
+                },
+                "region_attributes": {
+                    "name": "patente"
+                }
+            }
+        ],
+        "file_attributes": {}
+    }
+}

@@ -1,0 +1,731 @@
+{
+    "tesserino1.jpg2247098": {
+        "filename": "tesserino1.jpg",
+        "size": 2247098,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polyline",
+                    "all_points_x": [
+                        769,
+                        911,
+                        954,
+                        1919,
+                        1949,
+                        1809,
+                        1772,
+                        1188,
+                        1137,
+                        1059,
+                        909,
+                        884,
+                        766
+                    ],
+                    "all_points_y": [
+                        1293,
+                        712,
+                        707,
+                        960,
+                        1011,
+                        1565,
+                        1597,
+                        1454,
+                        1422,
+                        1430,
+                        1382,
+                        1298,
+                        1296
+                    ]
+                },
+                "region_attributes": {
+                    "name": "tesserino"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "tesserino2.jpg2300047": {
+        "filename": "tesserino2.jpg",
+        "size": 2300047,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polyline",
+                    "all_points_x": [
+                        1879,
+                        1933,
+                        1973,
+                        2191,
+                        2339,
+                        2425,
+                        2457,
+                        3081,
+                        3105,
+                        3030,
+                        2984,
+                        2635,
+                        2438,
+                        2272,
+                        1901,
+                        1876
+                    ],
+                    "all_points_y": [
+                        1207,
+                        567,
+                        527,
+                        535,
+                        589,
+                        597,
+                        570,
+                        618,
+                        653,
+                        1323,
+                        1355,
+                        1320,
+                        1266,
+                        1274,
+                        1242,
+                        1215
+                    ]
+                },
+                "region_attributes": {
+                    "name": "tesserino"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "tesserino3.jpg2171390": {
+        "filename": "tesserino3.jpg",
+        "size": 2171390,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polyline",
+                    "all_points_x": [
+                        1425,
+                        1293,
+                        1301,
+                        1401,
+                        1438,
+                        2030,
+                        2065,
+                        2186,
+                        2178,
+                        1747,
+                        1721,
+                        1680,
+                        1643,
+                        1446,
+                        1425
+                    ],
+                    "all_points_y": [
+                        1126,
+                        675,
+                        653,
+                        629,
+                        613,
+                        460,
+                        479,
+                        903,
+                        930,
+                        1057,
+                        1040,
+                        1043,
+                        1081,
+                        1134,
+                        1126
+                    ]
+                },
+                "region_attributes": {
+                    "name": "tesserino"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "tesserino4.jpeg93264": {
+        "filename": "tesserino4.jpeg",
+        "size": 93264,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        108,
+                        88,
+                        108,
+                        127,
+                        857,
+                        869,
+                        887,
+                        870
+                    ],
+                    "all_points_y": [
+                        555,
+                        535,
+                        106,
+                        86,
+                        82,
+                        97,
+                        531,
+                        552
+                    ]
+                },
+                "region_attributes": {
+                    "name": "tesserino"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "tesserino5.jpeg100417": {
+        "filename": "tesserino5.jpeg",
+        "size": 100417,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        296,
+                        312,
+                        503,
+                        520,
+                        547,
+                        575,
+                        595,
+                        633,
+                        652,
+                        672,
+                        695,
+                        715,
+                        724,
+                        876,
+                        894,
+                        910,
+                        896,
+                        308,
+                        293
+                    ],
+                    "all_points_y": [
+                        600,
+                        585,
+                        578,
+                        589,
+                        589,
+                        581,
+                        574,
+                        573,
+                        584,
+                        588,
+                        586,
+                        579,
+                        569,
+                        564,
+                        584,
+                        954,
+                        970,
+                        948,
+                        932
+                    ]
+                },
+                "region_attributes": {
+                    "name": "tesserino"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "tesserino6.jpeg80675": {
+        "filename": "tesserino6.jpeg",
+        "size": 80675,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        431,
+                        451,
+                        1018,
+                        1031,
+                        1055,
+                        1042,
+                        416,
+                        400
+                    ],
+                    "all_points_y": [
+                        309,
+                        297,
+                        287,
+                        298,
+                        661,
+                        679,
+                        662,
+                        647
+                    ]
+                },
+                "region_attributes": {
+                    "name": "tesserino"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "tesserino7.jpg3896721": {
+        "filename": "tesserino7.jpg",
+        "size": 3896721,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        1517,
+                        943,
+                        903,
+                        907,
+                        1329,
+                        1405,
+                        3448,
+                        3488,
+                        3500,
+                        3259,
+                        3002,
+                        3099,
+                        3139,
+                        3171,
+                        3091,
+                        2958,
+                        2774,
+                        2501,
+                        1862
+                    ],
+                    "all_points_y": [
+                        2200,
+                        2055,
+                        2007,
+                        1955,
+                        710,
+                        682,
+                        1236,
+                        1288,
+                        1337,
+                        2545,
+                        2565,
+                        2509,
+                        2461,
+                        2336,
+                        2184,
+                        2115,
+                        2083,
+                        2099,
+                        2147
+                    ]
+                },
+                "region_attributes": {
+                    "name": "tesserino"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "tesserino8.jpg3488408": {
+        "filename": "tesserino8.jpg",
+        "size": 3488408,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        3938,
+                        1216,
+                        1136,
+                        1096,
+                        931,
+                        939,
+                        983,
+                        1798,
+                        1830,
+                        1899,
+                        1999,
+                        2123,
+                        2164,
+                        2208,
+                        2216,
+                        2308,
+                        2352,
+                        2396,
+                        2529,
+                        2689,
+                        2733,
+                        2770,
+                        2818,
+                        2906,
+                        2954,
+                        3087,
+                        3251,
+                        3283,
+                        3336,
+                        3452,
+                        3484,
+                        3978,
+                        3974
+                    ],
+                    "all_points_y": [
+                        1377,
+                        646,
+                        662,
+                        751,
+                        2099,
+                        2151,
+                        2184,
+                        2336,
+                        2324,
+                        2324,
+                        2328,
+                        2316,
+                        2320,
+                        2388,
+                        2428,
+                        2436,
+                        2308,
+                        2300,
+                        2312,
+                        2288,
+                        2308,
+                        2501,
+                        2505,
+                        2292,
+                        2288,
+                        2304,
+                        2272,
+                        2304,
+                        2493,
+                        2272,
+                        2272,
+                        1461,
+                        1401
+                    ]
+                },
+                "region_attributes": {
+                    "name": "tesserino"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "tesserino9.jpg3520336": {
+        "filename": "tesserino9.jpg",
+        "size": 3520336,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        1393,
+                        2854,
+                        3018,
+                        3147,
+                        3251,
+                        3472,
+                        3460,
+                        3420,
+                        1766,
+                        1706,
+                        1670,
+                        1509,
+                        1473,
+                        1381,
+                        1333,
+                        1345
+                    ],
+                    "all_points_y": [
+                        1951,
+                        2412,
+                        2220,
+                        2155,
+                        2143,
+                        1413,
+                        1369,
+                        1341,
+                        803,
+                        811,
+                        867,
+                        1321,
+                        1525,
+                        1710,
+                        1879,
+                        1919
+                    ]
+                },
+                "region_attributes": {
+                    "name": "tesserino"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "tesserino10.jpg2534549": {
+        "filename": "tesserino10.jpg",
+        "size": 2534549,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polyline",
+                    "all_points_x": [
+                        1809,
+                        1901,
+                        1919,
+                        2779,
+                        2807,
+                        2747,
+                        2704,
+                        2386,
+                        2322,
+                        2255,
+                        2184,
+                        2177,
+                        1841,
+                        1809
+                    ],
+                    "all_points_y": [
+                        1246,
+                        708,
+                        697,
+                        825,
+                        850,
+                        1373,
+                        1419,
+                        1359,
+                        1257,
+                        1246,
+                        1281,
+                        1331,
+                        1281,
+                        1246
+                    ]
+                },
+                "region_attributes": {
+                    "name": "tesserino"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "tesserino11.jpg2223897": {
+        "filename": "tesserino11.jpg",
+        "size": 2223897,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polyline",
+                    "all_points_x": [
+                        1162,
+                        1123,
+                        1069,
+                        1101,
+                        2455,
+                        2494,
+                        2632,
+                        2622,
+                        1165
+                    ],
+                    "all_points_y": [
+                        1304,
+                        1261,
+                        309,
+                        274,
+                        394,
+                        426,
+                        1190,
+                        1243,
+                        1307
+                    ]
+                },
+                "region_attributes": {
+                    "name": "tesserino"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "tesserino12.jpg2235891": {
+        "filename": "tesserino12.jpg",
+        "size": 2235891,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polyline",
+                    "all_points_x": [
+                        1155,
+                        995,
+                        1016,
+                        2462,
+                        2515,
+                        2835,
+                        2817,
+                        1240,
+                        1147
+                    ],
+                    "all_points_y": [
+                        1659,
+                        707,
+                        675,
+                        565,
+                        586,
+                        1364,
+                        1421,
+                        1709,
+                        1663
+                    ]
+                },
+                "region_attributes": {
+                    "name": "tesserino"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "tesserino13.jpg2771141": {
+        "filename": "tesserino13.jpg",
+        "size": 2771141,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polyline",
+                    "all_points_x": [
+                        1623,
+                        1559,
+                        1584,
+                        2483,
+                        2519,
+                        2579,
+                        2565,
+                        2305,
+                        2227,
+                        2163,
+                        2117,
+                        2085,
+                        2075,
+                        1648,
+                        1623
+                    ],
+                    "all_points_y": [
+                        1229,
+                        664,
+                        643,
+                        529,
+                        558,
+                        1108,
+                        1144,
+                        1176,
+                        1062,
+                        1055,
+                        1076,
+                        1126,
+                        1190,
+                        1243,
+                        1229
+                    ]
+                },
+                "region_attributes": {
+                    "name": "tesserino"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "tesserino14.jpg1937719": {
+        "filename": "tesserino14.jpg",
+        "size": 1937719,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polyline",
+                    "all_points_x": [
+                        1261,
+                        1147,
+                        1162,
+                        2355,
+                        2416,
+                        2547,
+                        2533,
+                        2469,
+                        2465,
+                        2409,
+                        2323,
+                        2249,
+                        2210,
+                        2131,
+                        2057,
+                        2000,
+                        1932,
+                        1311,
+                        1268
+                    ],
+                    "all_points_y": [
+                        1638,
+                        1041,
+                        821,
+                        604,
+                        632,
+                        1343,
+                        1396,
+                        1410,
+                        1346,
+                        1290,
+                        1290,
+                        1449,
+                        1460,
+                        1403,
+                        1396,
+                        1425,
+                        1520,
+                        1655,
+                        1641
+                    ]
+                },
+                "region_attributes": {
+                    "name": "tesserino"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "tesserino15.jpg2236115": {
+        "filename": "tesserino15.jpg",
+        "size": 2236115,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polyline",
+                    "all_points_x": [
+                        956,
+                        1258,
+                        1297,
+                        2504,
+                        2526,
+                        2369,
+                        2316,
+                        963,
+                        956
+                    ],
+                    "all_points_y": [
+                        973,
+                        366,
+                        341,
+                        671,
+                        707,
+                        1368,
+                        1403,
+                        1009,
+                        977
+                    ]
+                },
+                "region_attributes": {
+                    "name": "tesserino"
+                }
+            }
+        ],
+        "file_attributes": {}
+    }
+}
