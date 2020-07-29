@@ -1,5 +1,5 @@
 {
-    "weights": "model/mask_rcnn_.1594028525.6874764.h5",
+    "weights": "model/mask_rcnn_.1594375539.309179.h5",
     "classes": {
         "Tesserino": {
             "lang": "ita",
